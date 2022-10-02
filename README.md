@@ -1,2 +1,2 @@
-# Calculadora-de-Von-Neumann-Faculdade
-Códigos que fiz usando o simulador da Calculadora de Von Neumann
+# Máquina-de-Von-Neumann-Faculdade
+Códigos que fiz usando o simulador da Máquina de Von Neumann
